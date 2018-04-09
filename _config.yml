@@ -3,8 +3,8 @@ name: The WI+RE Team
 email: uclawire@g.ucla.edu
 description: A place for the WI+RE creative team to play and experiment!
 
-baseurl: "/blog"
-url: ""
+baseurl: "/wire-sandbox"
+url: "http://uclalibrary.github.io/wire-sandbox"
 
 parallax_image_one: assets/images/sand.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/sand.jpg
