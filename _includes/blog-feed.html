@@ -7,11 +7,11 @@
         <a id="{{post.url}}" href="{{ post.url | relative_url }}">
           <img src="{{site.baseurl}}{{post.image}}" alt="{{ post.title }}">
           </a>
-        <span class="card-title"><a style="color:white">{{ post.title | escape }}</a></span>
-        <a id="{{post.url}}" class="btn-floating halfway-fab waves-effect waves-light red" href="{{ post.url | relative_url }}"><i class="material-icons">more_horiz</i></a>
+        <a class="btn-floating halfway-fab waves-effect waves-light blue" href="{{ post.url | relative_url }}"><i class="material-icons">more_horiz</i></a>
       </div>
       <div class="card-content">
-        <p>{{post.excerpt}}</p>
+        <span class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+          <p>{{post.excerpt}}</p>
       </div>
     </div>
   </div>
