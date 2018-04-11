@@ -34,3 +34,20 @@ You can copy and edit the following html code example:
         </div>
       </div>
 <!-- End Doug's profile -->
+
+<!-- Start Kian's profile -->
+ <div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="{{site.baseurl}}/assets/images/Kian.jpg" alt="Kian's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Kian is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Kian's profile -->
