@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to the sandbox!"
 date:   2018-04-08 21:15:05 +0000
 image: /assets/images/art-close-up-comic-16516.jpg
-author: Doug
+author: Doug, Kian
 ---
 Hi there! Welcome to the WI+RE sandbox! This is our place to play around and experiment with web publishing. We can explore all kinds of things here - coding, editing, html, css, ruby, web animations - you name it!
 
@@ -31,6 +31,12 @@ Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wik
 > When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
 
+
 >Dream a little before you think. 
 >
 _Toni Morrison_
+
+> Every child is an artist. The problem is how to remain an artist once he grows up.
+>
+> _Pablo Picasso_
+
