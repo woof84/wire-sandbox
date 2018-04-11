@@ -30,3 +30,6 @@ Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wik
 
 > When everyone in the classroom, teacher and students recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful.
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
+
+>Dream a little before you think. 
+> _Toni Morrison_
