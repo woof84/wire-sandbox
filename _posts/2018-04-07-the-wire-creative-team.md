@@ -34,3 +34,20 @@ You can copy and edit the following html code example:
         </div>
       </div>
 <!-- End Doug's profile -->
+
+<!-- Start Shannon's profile -->
+ <div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="{{site.baseurl}}/assets/images/shannon.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Shannon has been a member of the WI+RE Team from it's conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Shannon's profile -->
