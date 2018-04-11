@@ -40,7 +40,7 @@ You can copy and edit the following html code example:
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s3">
-              <img src="{{site.baseurl}}/assets/images/Kian.jpg" alt="Kian's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+              <img src="{{site.baseurl}}/assets/images/kian.jpg" alt="Kian's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s9">
               <span class="black-text">
