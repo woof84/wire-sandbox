@@ -32,4 +32,5 @@ Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wik
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
 
 > Every child is an artist. The problem is how to remain an artist once he grows up.
+>
 > _Pablo Picasso_
