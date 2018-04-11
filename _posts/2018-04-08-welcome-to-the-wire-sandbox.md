@@ -34,7 +34,7 @@ Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wik
 
 >Dream a little before you think. 
 >
-_Toni Morrison_
+> _Toni Morrison_
 
 > Every child is an artist. The problem is how to remain an artist once he grows up.
 >
