@@ -32,4 +32,5 @@ Here's a quick [markdown cheatsheet](https://github.com/adam-p/markdown-here/wik
 > - <cite>bell hooks, Teaching Critical Thinking: Practical Wisdom</cite>
 
 >Dream a little before you think. 
-> _Toni Morrison_
+>
+_Toni Morrison_
