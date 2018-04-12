@@ -56,10 +56,6 @@ Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design
 </div>
 </div>
    
-    </div><!-- COL S12 Ends -->
+</div><!-- COL S12 Ends -->
 </div><!-- Container Ends  -->
-<!--Import jQuery before materialize.js-->
-     <script type="text/javascript" src="js/jquery.min.js"></script>
-     <script type="text/javascript" src="js/materialize.min.js"></script>
-     <script type="text/javascript" src="js/custom.js"></script>
 <!--Audio Player End-->
