@@ -16,7 +16,14 @@ Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design
    </div>
 </div>
 
-<!--Audio player starts-->
+<!--Audio player starts--><div class='blue-grey lighten-5'>
+
+<div class="row container">
+  <div class="col s12">
+
+<div id="cover" class="col m6 s12 covers z-depth-1"
+  style="background-image:url(assets/images/kian.jpg)">
+</div><!-- Covers Ends -->
 <div class="col m6 s12 player z-depth-2 no-padding blue-grey lighten-5">
         <div class="musicplayer col s12 blue accent-1 z-depth-2 ">
           <span class="right share">Share</span>
