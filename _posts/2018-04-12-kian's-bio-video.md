@@ -6,13 +6,15 @@ image: /assets/images/baguettes.jpg
 author: Kian
 ---
 <div class="card-panel yellow accent-3">
-Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design sketches for my bio video.
+   <h1>
+      Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design sketches for my bio video.
+   </h1>
 </div>
 
 <div class="card-panel light-green lighten-1">
    <div class="col s12 m2">
       <p class="z-depth-5">
-         ####So what's my story?
+         <h4>So what's my story?</h4>
       </p>
    My story is about history and bread.
    </div>
