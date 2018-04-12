@@ -6,9 +6,9 @@ image: /assets/images/baguettes.jpg
 author: Kian
 ---
 <div class="card-panel yellow accent-3">
-   <h1>
+   <h6>
       Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design sketches for my bio video.
-   </h1>
+   </h6>
 </div>
 
 <div class="card-panel light-green lighten-1">
