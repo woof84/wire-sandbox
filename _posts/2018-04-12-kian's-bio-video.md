@@ -8,13 +8,15 @@ author: Kian
 Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design sketches for my bio video.
 
 <div class="card-panel light-green lighten-1">
-   <div class="col s12 m2">
-      <div mclass="center-align">
-         <div class="z-depth-5">
-            <h4 class="card-panel indigo lighten-4">So what's my story?</h4>
-            <p>My story is about history and bread.</p>
+   <div class="z-depth-2">
+      <div class="col s12 m2">
+         <div class="card-panel indigo lighten-4">
+            <div class="z-depth-5">
+               <h4 mclass="center-align">So what's my story?</h4>
+            </div>
          </div>
       </div>
+   <p>My story is about history and bread.</p>
    </div>
 </div>
             
