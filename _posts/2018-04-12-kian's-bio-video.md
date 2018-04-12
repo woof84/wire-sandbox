@@ -16,6 +16,8 @@ Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design
    </div>
 </div>
 
+
+
 <!--Audio player starts--><div class='blue-grey lighten-5'>
 
 <div class="row container">
@@ -48,9 +50,16 @@ Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design
         <div class="playlist col s12 no-padding">
           <ul class="collection with-header grey lighten-4">
             <li class="collection-header"><h5>Playlist</h5></li>
-            <li class="collection-item"><div>Bio Audio<a href="#!" class='secondary-content'><i class="material-icons songPlay" data-link="INTRO_180411_AUDIO_kian-bio_v1.m4a" data-name='INTRO_180411_AUDIO_kian-bio_v1' cover="prism.jpg">play_arrow</i></a></div></li>
+            <li class="collection-item"><div>INTRO_180411_AUDIO_kian-bio_v1<a href="#!" class='secondary-content'><i class="material-icons songPlay" data-link="INTRO_180411_AUDIO_kian-bio_v1.m4a" data-name='INTRO_180411_AUDIO_kian-bio_v1' cover="kian.jpg">play_arrow</i></a></div></li>
 
 </ul>
-        </div>
-    </div>
+</div>
+</div>
+   
+    </div><!-- COL S12 Ends -->
+</div><!-- Container Ends  -->
+<!--Import jQuery before materialize.js-->
+     <script type="text/javascript" src="js/jquery.min.js"></script>
+     <script type="text/javascript" src="js/materialize.min.js"></script>
+     <script type="text/javascript" src="js/custom.js"></script>
 <!--Audio Player End-->
