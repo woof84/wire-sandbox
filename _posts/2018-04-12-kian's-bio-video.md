@@ -13,10 +13,10 @@ author: Kian
 
 <div class="card-panel light-green lighten-1">
    <div class="col s12 m2">
-      <p class="z-depth-5">
-         <h4>So what's my story?</h4>
-      </p>
-   My story is about history and bread.
+      <div>
+         <h4 mclass="center-align" class="z-depth-5">So what's my story?</h4>
+   <p>My story is about history and bread.</p>
+      </div>
    </div>
 </div>
             
