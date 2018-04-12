@@ -11,8 +11,10 @@ Hi! I'm Kian, and this is where I'll be sharing outlines, prototypes, and design
 
 <div class="card-panel light-green lighten-1">
    <div class="col s12 m2">
-      <p class="z-depth-5">z-depth-5</p>
-         I'm going to share a story about history and bread.
+      <p class="z-depth-5">
+         ####So what's my story?
+      </p>
+   My story is about history and bread.
    </div>
 </div>
             
