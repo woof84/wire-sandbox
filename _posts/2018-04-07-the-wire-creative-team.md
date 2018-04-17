@@ -18,22 +18,7 @@ You can copy and edit the following html code example:
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
-<!-- Start Doug's profile -->
- <div class="col s12 offset-m2 l6 offset-l3">
-        <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s3">
-              <img src="{{site.baseurl}}/assets/images/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s9">
-              <span class="black-text">
-                Doug is passionately interested in how learners work together to build knowledge.
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-<!-- End Doug's profile -->
+
 
 <!-- Start Kian's profile -->
 <div class="col s12 offset-m2 l6 offset-l3">
@@ -68,3 +53,20 @@ You can copy and edit the following html code example:
         </div>
       </div>
   <!-- End Shannon's profile -->
+  
+  <!-- Start Taylor's profile -->
+<div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+               <img src="{{site.baseurl}}/assets/images/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Taylor is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Taylor's profile -->
