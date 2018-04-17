@@ -18,23 +18,6 @@ You can copy and edit the following html code example:
 <!-- we also use comment to mark off sections of code to make things easier to read and scan -->
 <!-- for example, in the code below, there is a start statement and an end statement to help us scan and read through the code. -->
 
--<!-- Start Doug's profile -->
-- <div class="col s12 offset-m2 l6 offset-l3">
--        <div class="card-panel grey lighten-5 z-depth-1">
--          <div class="row valign-wrapper">
--            <div class="col s3">
--              <img src="{{site.baseurl}}/assets/images/doug.jpg" alt="Doug's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
--            </div>
--            <div class="col s9">
--              <span class="black-text">
--                Doug is passionately interested in how learners work together to build knowledge.
--              </span>
--            </div>
--          </div>
--        </div>
--      </div>
--<!-- End Doug's profile -->
-
 <!-- Start Kian's profile -->
 <div class="col s12 offset-m2 l6 offset-l3">
         <div class="card-panel grey lighten-5 z-depth-1">
