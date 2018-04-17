@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing the Creative Team"
 date:   2018-04-07 21:15:05 +0000
 image: /assets/images/art-creative-flying-17679.jpg
-author: Doug, Kian, Shannon
+author: Doug, Kian, Shannon, Taylor
 ---
 Ready for your next challenge? Add your profile to this post! Use the same process of forking the site, marking your changes, testing out your changes on your own version of the site, and then making a pull request.
 
@@ -68,3 +68,20 @@ You can copy and edit the following html code example:
         </div>
       </div>
   <!-- End Shannon's profile -->
+  
+  <!-- Start Taylor's profile -->
+<div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+               <img src="{{site.baseurl}}/assets/images/Taylor.jpg" alt="Taylor's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Taylor is a junior majoring in English and concentrating in Creative Writing. She is interested in literature, film, and theory. Her goal is to create meaningful, memorable learning tools and resources that build writing foundations and provide on-going support for all learners. She also really, really loves cats.
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Taylor's profile -->
