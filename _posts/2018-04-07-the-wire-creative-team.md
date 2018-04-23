@@ -70,7 +70,7 @@ You can copy and edit the following html code example:
     </div>
     <div class="collapsible-body">
        <div class="video-container">
-          <iframe width="90%" height="400" src="https://youtu.be/aYhQEOXJ8d0" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
        </div>
     </div>
     </li>
