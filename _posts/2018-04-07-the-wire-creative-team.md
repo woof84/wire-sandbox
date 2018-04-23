@@ -66,9 +66,12 @@ You can copy and edit the following html code example:
              </span>
           </div>
        </div>
+       <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
     </div>
     <div class="collapsible-body">
-       <iframe width="90%" height="400" src="https://www.youtube.com/embed/sH9h4xkY4ys" frameborder="0" allowfullscreen</iframe>
+       <div class="video-container">
+          <iframe width="90%" height="400" src="https://youtu.be/aYhQEOXJ8d0" frameborder="0" allowfullscreen</iframe>
+       </div>
     </div>
     </li>
 <!-- End Kian's test profile -->
