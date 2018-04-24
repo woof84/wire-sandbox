@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to the sandbox!"
 date:   2018-04-08 21:15:05 +0000
 image: /assets/images/art-close-up-comic-16516.jpg
-author: Doug, Kian, Shannon, Taylor
+author: Doug, Juan, Kian, Shannon, Taylor
 ---
 Hi there! Welcome to the WI+RE sandbox! This is our place to play around and experiment with web publishing. We can explore all kinds of things here - coding, editing, html, css, ruby, web animations - you name it!
 
@@ -47,3 +47,7 @@ over and over announcing your place
 in the family of things.
 >
 >_Mary Oliver_, "Wild Geese"
+
+>Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things. And the reason they were able to do that was that they've had more experiences or they have thought more about their experiences than other people.
+>
+>_Steve Jobs_
