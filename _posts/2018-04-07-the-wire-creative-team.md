@@ -49,7 +49,7 @@ You can copy and edit the following html code example:
              </span>
           </div>
        </div>
-       <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+       <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
@@ -73,7 +73,7 @@ You can copy and edit the following html code example:
              </span>
           </div>
        </div>
-       <div><center><i class="fa fa-angle-double-down" aria-hidden="true"></i></center></div>
+       <div><center><i class="material-icons">arrow_drop_down</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
