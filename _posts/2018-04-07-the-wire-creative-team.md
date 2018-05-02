@@ -109,7 +109,7 @@ You can copy and edit the following html code example:
             </div>
             <div class="col s9">
               <span class="black-text">
-                Jen is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore ways to connect and grow learning communities through both offline and online means. 
+                Jen is a doctoral student in the department of Information Studies. She researches how youth use social media for social support, and is highly enthusiastic about technology-facilitated community enagagement. She hopes to explore new ways to connect and grow learning communities through both offline and online means with WI+RE. 
                 </span>
             </div>
           </div>
