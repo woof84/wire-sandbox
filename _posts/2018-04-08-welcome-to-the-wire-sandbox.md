@@ -55,3 +55,7 @@ in the family of things.
 >The worst enemy to creativity is self-doubt.
 >
 >_Sylvia Plath_
+
+>You've got to jump off cliffs all the time and build your wings on the way down.
+>
+>_Annie Dillard_
