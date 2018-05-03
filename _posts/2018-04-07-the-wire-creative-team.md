@@ -116,3 +116,27 @@ You can copy and edit the following html code example:
         </div>
       </div>
 <!-- End Jen's profile -->
+
+<!-- Start Jeannie's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/images/kian.jpg" alt="Kian's profile picture" class="circle responsive-img"> 
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                Kian is an undergraduate Philosophy student who is fascinated by the potential for digital media to serve as an aid for learning.
+             </span>
+          </div>
+       </div>
+       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/aYhQEOXJ8d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+ <!-- End Jeannie's profile -->
