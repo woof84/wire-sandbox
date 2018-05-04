@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to the sandbox!"
 date:   2018-04-08 21:15:05 +0000
 image: /assets/images/art-close-up-comic-16516.jpg
-author: Doug, Jen, Juan, Kian, Shannon, Taylor
+author: Doug, Jen, Juan, Kian, Shannon, Taylor, Jeannie
 ---
 Hi there! Welcome to the WI+RE sandbox! This is our place to play around and experiment with web publishing. We can explore all kinds of things here - coding, editing, html, css, ruby, web animations - you name it!
 
@@ -55,3 +55,7 @@ in the family of things.
 >The worst enemy to creativity is self-doubt.
 >
 >_Sylvia Plath_
+
+>You've got to jump off cliffs all the time and build your wings on the way down.
+>
+>_Annie Dillard_
