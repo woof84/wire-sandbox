@@ -69,7 +69,7 @@ You can copy and edit the following html code example:
           </div>
           <div class="col s9">
              <span class="black-text">
-                Shannon, a Psychology and Neuroscience student, has been a member of the WI+RE Team from it's conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
+                Shannon, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
              </span>
           </div>
        </div>
