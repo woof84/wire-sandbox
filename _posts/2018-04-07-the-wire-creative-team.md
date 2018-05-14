@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing the Creative Team"
 date:   2018-04-07 21:15:05 +0000
 image: /assets/images/art-creative-flying-17679.jpg
-author: Doug, Jen, Kian, Shannon, Taylor, Jeannie
+author: Doug, Jen, Kian, Shannon, Taylor, Jeannie, Sophia
 ---
 Ready for your next challenge? Add your profile to this post! Use the same process of forking the site, marking your changes, testing out your changes on your own version of the site, and then making a pull request.
 
@@ -146,7 +146,7 @@ You can copy and edit the following html code example:
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s3">
-               <img src="{{site.baseurl}}/assets/images/jen.jpg" alt="Jen's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+               <img src="{{site.baseurl}}/assets/images/IMG-3299.jpg" alt="Sophia's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s9">
               <span class="black-text">
