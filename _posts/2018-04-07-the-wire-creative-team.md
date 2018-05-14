@@ -140,3 +140,20 @@ You can copy and edit the following html code example:
     </div>
     </li>
  <!-- End Jeannie's profile -->
+
+<!-- Start Sophia's profile -->
+<div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+               <img src="{{site.baseurl}}/assets/images/jen.jpg" alt="Jen's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                Sophia is an undergraduate business economics student who is passionate about purposeful content creation and design. 
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Sophia's profile -->
