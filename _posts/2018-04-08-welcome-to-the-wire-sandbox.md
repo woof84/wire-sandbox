@@ -63,3 +63,7 @@ in the family of things.
 >We live in a bewildering world.
 >
 >_Stephen Hawking_
+
+>Too busy watering my own grass to notice if yours is greener.
+>
+>_Russ_
