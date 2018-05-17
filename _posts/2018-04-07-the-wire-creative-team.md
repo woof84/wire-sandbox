@@ -155,7 +155,7 @@ You can copy and edit the following html code example:
              </span>
           </div>
        </div>
-       <div><center><i class="material-icons">arrow_drop_down</i></center></div>
+       <div><center><i class="material-icons">more_vert</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
