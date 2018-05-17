@@ -141,19 +141,26 @@ You can copy and edit the following html code example:
     </li>
  <!-- End Jeannie's profile -->
 
-<!-- Start Sophia's profile -->
-<div class="col s12 offset-m2 l6 offset-l3">
-        <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s3">
-               <img src="{{site.baseurl}}/assets/images/Sophia.JPG" alt="Sophia's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s9">
-              <span class="black-text">
-                Sophia is an undergraduate business economics student who is passionate about purposeful content creation and design. 
-                </span>
-            </div>
+ <!-- Start Sophia's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/images/Sophia.jpg" alt="Sophia's profile picture" class="circle responsive-img">
           </div>
-        </div>
-      </div>
+          <div class="col s9">
+             <span class="black-text">
+                Sophia is an undergraduate business economics student who is passionate about purposeful content creation and design. 
+             </span>
+          </div>
+       </div>
+       <div><center><i class="material-icons">arrow_drop_down</i></center></div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://youtu.be/BPreyxZZEVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
 <!-- End Sophia's profile -->
