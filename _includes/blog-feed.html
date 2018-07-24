@@ -5,13 +5,13 @@
     <div class="card">
       <div class="card-image">
         <a id="{{post.url}}" href="{{ post.url | relative_url }}">
-          <img src="{{site.baseurl}}{{post.image}}" alt="{{ post.title }}">
+          <img src="{{site.baseurl}}{{post.image}}" alt="{{ post.title }}" style="height: 250px; overflow: hidden; object-fit: cover;">
           </a>
         <a class="btn-floating halfway-fab waves-effect waves-light blue" href="{{ post.url | relative_url }}"><i class="material-icons">more_horiz</i></a>
       </div>
       <div class="card-content">
         <span class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
-          <p>{{post.excerpt | strip_html }}</p>
+          <!-- post excerpts lead to trouble with card heights being different - removing this for now <p>{{post.excerpt | strip_html }}</p>-->
       </div>
     </div>
   </div>

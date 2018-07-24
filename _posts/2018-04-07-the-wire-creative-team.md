@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing the Creative Team"
 date:   2018-04-07 21:15:05 +0000
 image: /assets/images/art-creative-flying-17679.jpg
-author: Doug, Jen, Kian, Shannon, Taylor, Jeannie
+author: Doug, Jen, Kian, Shannon, Taylor, Jeannie, Sophia
 ---
 Ready for your next challenge? Add your profile to this post! Use the same process of forking the site, marking your changes, testing out your changes on your own version of the site, and then making a pull request.
 
@@ -49,7 +49,7 @@ You can copy and edit the following html code example:
              </span>
           </div>
        </div>
-       <div><center><i class="material-icons md-36">arrow_drop_down</i></center></div>
+       <div><center><i class="material-icons">arrow_drop_down_circle</i></center></div>
     </div>
     <div class="collapsible-body">
        <div class="video-container">
@@ -69,7 +69,7 @@ You can copy and edit the following html code example:
           </div>
           <div class="col s9">
              <span class="black-text">
-                Shannon, a Psychology and Neuroscience student, has been a member of the WI+RE Team from it's conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
+                Shannon, a Psychology and Neuroscience student, has been a member of the WI+RE Team from its conception and is inspired by continuing efforts to make educational materials that are accessible and that reflect the diverse learners that we serve. 
              </span>
           </div>
        </div>
@@ -140,3 +140,44 @@ You can copy and edit the following html code example:
     </div>
     </li>
  <!-- End Jeannie's profile -->
+
+ <!-- Start Sophia's profile -->
+<ul class="collapsible" data-collapsible="expandable">
+    <li>
+    <div class="collapsible-header row z-depth-1 hoverable blue grey lighten-5">
+       <div class="row valign-wrapper">
+          <div class="col s3">
+             <img src="{{site.baseurl}}/assets/images/Sophia.jpg" alt="Sophia's profile picture" class="circle responsive-img">
+          </div>
+          <div class="col s9">
+             <span class="black-text">
+                Sophia is an undergraduate business economics student who is passionate about purposeful content creation and design. 
+             </span>
+          </div>
+       </div>
+       <div><center><i class="material-icons">more_vert</i></center></div>
+    </div>
+    <div class="collapsible-body">
+       <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/BPreyxZZEVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       </div>
+    </div>
+    </li>
+<!-- End Sophia's profile -->
+
+<!-- Start April's profile -->
+<div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+               <img src="{{site.baseurl}}/assets/images/IMG_8600.jpg" alt="April's profile picture" class="circle responsive-img"> 
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                April is an undergraduate Computational and Systems Biology student, and is interested in the role and effectiveness of supplementary educational material across different fields of study. 
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End April's profile -->
