@@ -17,16 +17,16 @@ Learners will be able to...
 
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/236057405/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
-This prototype was made using Scratch, a simple coding interface developed at MIT. It demonstrates a potential drag-and-drop mechanism and an early example of level-design.
+If the activity doesn't work, [click here to play the prototype!](https://scratch.mit.edu/projects/236057405/)
 
-You may need to click on the link above to run flash!
+This prototype was made using Scratch, a simple coding interface developed at MIT. It demonstrates a potential drag-and-drop mechanism and an early example of level-design.
 
 ### Marvel Prototype - Sourcery: The Game
 
-<iframe allowtransparency="true" width="485" height="402" src="//marvelapp.com/182a540g/screen/45554966" frameborder="0" allowfullscreen></iframe>
+<iframe allowtransparency="true" width="970" height="804" src="//marvelapp.com/182a540g/screen/45554966" frameborder="0" allowfullscreen></iframe>
 
-[Click here to play the prototype!](https://marvelapp.com/182a540g)
+If the activity doesn't work, [click here to play the prototype!](https://marvelapp.com/182a540g)
 
 This paper prototype tries to get at the second of the three learning outcomes. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds.
 
-##### More prototypes are on the way!
+### More prototypes are on the way!
