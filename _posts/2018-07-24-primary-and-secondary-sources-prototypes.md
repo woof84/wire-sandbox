@@ -9,9 +9,9 @@ author: The WI+RE team
 ### Learning Outcomes
 
 Learners will be able to...
-   * Identify a source as primary or secondary given a specific research topic or discipline.
-   * Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.
-   * Generate ideas for types of primary sources that may be relevant to their research area.
+* Identify a source as primary or secondary given a specific research topic or discipline.
+* Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.
+* Generate ideas for types of primary sources that may be relevant to their research area.
 
 ### Scratch Prototype
 
