@@ -2,19 +2,27 @@
 layout: post
 title: "Primary and secondary sources prototypes"
 date: 2018-05-18 01:01:01 +0000
-image: /assets/images/blur-close-up-design-196645.jpg
+image: /assets/images/choice-colors-colours-5933.jpg
 author: The WI+RE team 
 ---
 
-# Learning Outcomes
+### Learning Outcomes
 
 Learners will be able to...
    * Identify a source as primary or secondary given a specific research topic or discipline.
    * Identify a source that one research topic would treat as primary, and another research topic would treat as secondary.
    * Generate ideas for types of primary sources that may be relevant to their research area.
 
-# Scratch Prototype
+### Scratch Prototype
 
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/236057405/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
 This prototype was made using Scratch, a simple coding interface developed at MIT. It demonstrates a potential drag-and-drop mechanism and an early example of level-design.
+
+You may need to click on the link above to run flash!
+
+### Marvel Prototype - Sourcery: The Game
+
+[Click here to play the prototype!] (https://marvelapp.com/182a540g)
+
+This paper prototype tries to get at the second of the three learning outcomes. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds. 
