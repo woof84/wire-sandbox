@@ -23,6 +23,8 @@ You may need to click on the link above to run flash!
 
 ### Marvel Prototype - Sourcery: The Game
 
+<iframe allowtransparency="true" width="485" height="402" src="//marvelapp.com/182a540g/screen/45554966" frameborder="0" allowfullscreen></iframe>
+
 [Click here to play the prototype!](https://marvelapp.com/182a540g)
 
 This paper prototype tries to get at the second of the three learning outcomes. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds.
