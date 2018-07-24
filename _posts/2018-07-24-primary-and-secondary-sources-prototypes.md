@@ -25,4 +25,6 @@ You may need to click on the link above to run flash!
 
 [Click here to play the prototype!](https://marvelapp.com/182a540g)
 
-This paper prototype tries to get at the second of the three learning outcomes. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds. 
+This paper prototype tries to get at the second of the three learning outcomes. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds.
+
+##### More prototypes are on the way!
