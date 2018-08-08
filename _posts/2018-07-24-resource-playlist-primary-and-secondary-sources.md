@@ -17,11 +17,10 @@ Here's a playlist of some of our favorite online resources on primary and second
         </div>
         <div class="card-content">
           <p>by Imagine Easy Solutions</p>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>This video delineates the differences in how the humanities and sciences define primary and secondary sources. They also give lots of great examples!</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <a href="https://www.youtube.com/watch?v=1m5l_FnHZ0o">Let's do it!</a>
         </div>
         <div class="card-reveal">
            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
