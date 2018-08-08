@@ -12,7 +12,7 @@ Here's a playlist of some of our favorite online resources on primary and second
     <div class="col s12 m6">
       <div class="card">
         <div class="card-image">
-          <img src="/assets/images/choice-colors-colours-5933.jpg">
+          <img src="{{site.baseurl}}/assets/images/choice-colors-colours-5933.jpg">
           <span class="card-title">What's the Difference Between Primary and Secondary Sources</span>
         </div>
         <div class="card-content">
