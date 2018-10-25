@@ -7,7 +7,9 @@ author: The WI+RE team
 ---
 ### Cornerstone H5P Prototypes
 
-WI+RE's CCLE Cornerstone Research Workshop series has a new look. Try out the first two Cornerstone Workshops below!
+WI+RE is working on a new look and some new interactive elements for the CCLE Cornerstone Research Workshop series!
+
+Please try out the first two Cornerstone Workshops below and let us know what you think!
 
 (If the activity looks out of proportion, you can fix it by making it full screen and shrinking it again.)
 
