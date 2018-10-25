@@ -163,7 +163,7 @@ syntax_highlighting: true # include the css for syntax highlighting
 # Build settings
 markdown: kramdown
 # theme: minima
-permalink: pretty
+permalink: /:slug
 plugins:
   - jekyll-feed
   - jekyll-assets
